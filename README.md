@@ -27,7 +27,7 @@ nav {
     padding:10px;
     text-align:center;
 }
-
+oo
 nav a {
     color:white;
     margin:15px;
